@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ugadai</string>
+    <string name="TextView">Попробуйте угадать число от 1 до 5</string>
+    <string name="abehind">Мало</string>
+    <string name="ahead">Много</string>
+    <string name="hit">Угадал</string>
+    <string name="play_more">Сыграть еще</string>
+    <string name="input">Введите число</string>
+    <string name="error">Неверный ввод</string>
+    <string name="try_to_guess">1 </string>
+    </resources>
